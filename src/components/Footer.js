@@ -1,7 +1,10 @@
-import React from 'react';
 
 function Footer() {
-  // ... component code ...
+  return (
+    <footer>
+      <p>&copy; 2023 Jasmine Ratliff</p>
+    </footer>
+  );
 }
 
 export default Footer;
